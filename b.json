@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "g++ a.cpp -o a -Wall"
+echo "./a"
