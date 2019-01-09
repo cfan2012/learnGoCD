@@ -1,0 +1,19 @@
+2019-01-08 18:42:15,796 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-01-08 18:42:15,817 INFO o.a.j.JMeter: Loading user properties from: /usr/local/Cellar/jmeter/5.0/libexec/bin/user.properties
+2019-01-08 18:42:15,818 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/5.0/libexec/bin/system.properties
+2019-01-08 18:42:15,822 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-01-08 18:42:15,822 INFO o.a.j.JMeter: Version 5.0 r1840935
+2019-01-08 18:42:15,822 INFO o.a.j.JMeter: java.version=1.8.0_181
+2019-01-08 18:42:15,823 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-01-08 18:42:15,823 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-01-08 18:42:15,823 INFO o.a.j.JMeter: os.arch=x86_64
+2019-01-08 18:42:15,823 INFO o.a.j.JMeter: os.version=10.13.6
+2019-01-08 18:42:15,823 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-01-08 18:42:15,823 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-01-08 18:42:15,823 INFO o.a.j.JMeter: Available Processors =12
+2019-01-08 18:42:15,826 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-01-08 18:42:15,827 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-01-08 18:42:15,827 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/5.0/libexec
+2019-01-08 18:42:15,827 INFO o.a.j.JMeter: user.dir  =/Users/Bo/learnGoCD
+2019-01-08 18:42:15,827 INFO o.a.j.JMeter: PWD       =/Users/Bo/learnGoCD
+2019-01-08 18:42:15,828 INFO o.a.j.JMeter: IP: 10.209.125.37 Name: CNBo FullName: 10.209.125.37
